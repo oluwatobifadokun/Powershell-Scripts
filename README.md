@@ -35,7 +35,7 @@ This repository serves as a central location for practical PowerShell tools deve
 Clone the repository:
 
 ```powershell
-git clone https://github.com/troubleshootterminal/Powershell-Scripts.git
+git clone https://github.com/oluwatobifadokun/Powershell-Scripts.git
 cd Powershell-Scripts
 ```
 
@@ -84,7 +84,7 @@ Planned categories include:
 
 ## Author
 
-GitHub: https://github.com/troubleshootterminal
+GitHub: https://github.com/oluwatobifadokun
 
 ---
 
